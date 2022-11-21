@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PYTHON!
 - 💞️ I’m looking to collaborate on OPEN SOURCE!
 - 📫 How to reach me email in profile.
+- 👨🏻‍💻 Looking to learn more about the Infosec industry! 
 
 <!---
 TheDesFitz/TheDesFitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
